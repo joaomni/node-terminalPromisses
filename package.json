@@ -1,0 +1,22 @@
+{
+  "name": "terminal-promisses",
+  "version": "1.0.0",
+  "description": "Terminal and promisses javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaomni/node-terminalPromisses.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "joaomni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaomni/node-terminalPromisses/issues"
+  },
+  "homepage": "https://github.com/joaomni/node-terminalPromisses#readme"
+}
